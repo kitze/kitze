@@ -6,3 +6,4 @@
 
 
 Founded [Sizzy](https://sizzy.co) and [Glink](https://glink.so). 
+[![ZeroToShipped]([https://img.shields.io/discord/828959378094817290.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2](https://i.ibb.co/WKQPDv5/twitter-image.jpg))](https://zerotoshipped.com)
