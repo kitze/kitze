@@ -5,6 +5,6 @@
 <a href="https://twitter.com/thekitze"><img src="https://img.shields.io/twitter/follow/thekitze?label=Twitter&style=social" alt="Twitter"></a>
 
 
-<a href="https://zerotoshipped.com"><img src="[https://img.shields.io/twitter/follow/thekitze?label=Twitter&style=social](https://i.ibb.co/WKQPDv5/twitter-image.jpg)" alt="Zero To Shipped"></a>
+<a href="https://zerotoshipped.com"><img src="https://i.ibb.co/WKQPDv5/twitter-image.jpg" alt="Zero To Shipped"></a>
 
 Founded [Sizzy](https://sizzy.co) and [Glink](https://glink.so). 
