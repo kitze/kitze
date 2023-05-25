@@ -7,4 +7,4 @@
 
 <a href="https://zerotoshipped.com"><img style="width:450px" src="https://i.ibb.co/WKQPDv5/twitter-image.jpg" alt="Zero To Shipped"></a>
 
-Founded [Sizzy](https://sizzy.co) and [Glink](https://glink.so). 
+Founded [Sizzy](https://sizzy.co), [Benji](https://benji.so), [React Academy](https://reactacademy.io), and [Glink](https://glink.so). 
